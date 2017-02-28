@@ -101,7 +101,7 @@ Notice how our list is kept nicely in sync without further ado thanks to the `As
 
 ## Keeping track of references
 
-Let's back of and refactor above code to what it would look like without the help of the `AsyncPipe`. But while we're at it, let's introduce a button to restart generating numbers and pick a random background color for the elements each time we regenerate the sequence.
+Let's back off and refactor the above code to what it would look like without the help of the `AsyncPipe`. But while we're at it, let's introduce a button to restart generating numbers and pick a random background color for the elements each time we regenerate the sequence.
 
 {% highlight js %}
 {% raw %}
